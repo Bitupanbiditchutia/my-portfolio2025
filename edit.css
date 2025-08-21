@@ -561,13 +561,13 @@ section {
 
 .contact form .input-group input,
 .contact form textarea {
-    width: 100%;
+     width: 100%;
     padding: 2rem;
-    font-size: 1.8rem;
+    font-size: 4rem;
     color: var(--text-color);
     background-color: var(--bg-color);
     border-radius: 3rem;
-    border: 6px solid var(--main-color);
+    border: 3px solid var(--main-color);
     resize: none;
     transition: 0.3s ease;
 }
@@ -911,3 +911,4 @@ canvas#smoke {
   height: 100%;
   z-index: 9999; /* very high so it stays above everything */
 }
+
